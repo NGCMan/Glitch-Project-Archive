@@ -1,3 +1,10 @@
+# Last edited: Jun 16, 2020	
+
+# Original Description:
+battle replicants = yes
+
+
+# Original README.md text: (Yes, it's unaltered from the default.)
 Battle Replicants
 =================
 
