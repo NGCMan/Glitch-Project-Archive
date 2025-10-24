@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" type="image/jpg" href="https://cdn.imgbin.com/18/23/23/imgbin-chocolate-chip-cookie-cookie-clicker-maple-leaf-cream-cookies-biscuits-chocolate-chip-cookies-cookie-with-chocolate-chips-ZsyXV7gdDLqsuFJ8w4KShi0uw.jpg">
+    <title id="title">0 cookies - Cookie Clicker Respecced</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="stylesheets/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="javascripts/libs/logarithmica_numerus_lite.js"></script>
+    <script src="javascripts/libs/lodash.min.js"></script>
+    <script src="javascripts/libs/format.js"></script>
+    <script src="javascripts/function.js"></script>
+    <script src="javascripts/building.js"></script>
+    <script src="javascripts/main.js"></script>
+    <script src="javascripts/news.js"></script>
+  </head>
+  <body onload="init()">
+    <h1 id="newsTicker" onclick="changeNews()">Welcome</h1>
+
+    <p></p>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+
+    <button onclick="clickButton()" class="mainButton">
+      Click this to get cookies!
+    </button>
+<br>
+    <button onclick="buyCursor()" id="buyCursor" class="buildingButton">
+      Buy a cursor for 15 cookies
+    </button>
+<br>
+    <button onclick="buyWorker()" id="buyWorker" class="buildingButton">
+      Buy a worker for 100 cookies
+    </button>
+<br>
+        <button id="buy2ndCursor" onclick="buy2ndCursor()" class="buildingButton">
+      Buy a super cursor for 15000 cookies
+    </button>
+<br>
+    <button onclick="buyCp()" id="buyCp" class="upgradeButton">
+      Upgrade click power for 100 cookies
+    </button>
+<br>    
+    <button onclick="buyTs()" id="buyTs" class="upgradeButton">
+      Upgrade tickspeed for 1000 cookies
+    </button>
+    
+    <div id="cookies">
+      Cookies: 0
+    </div>
+    <div id="Cursors">
+      Cursors: 0
+    </div>
+    <div id="Workers">
+      Workers: 0
+    </div>
+    <div id="2ndCursors">
+    Super Cursors: 0
+    </div>
+    <br>
+    <button onclick="refactor()" class="refactor" id="refactorButton">
+      Refactor and gain 0 refactor essence.
+    </button>
+    <br>
+    <div id="hideUntilRefact">
+    <button onclick="buyReCursor()" id="buyReCursor">
+      Buy a ReCursor for 10 refactor essence
+    </button>
+    <button onclick="buyupgrade1()" class="refactorUpg" id="reupg1">
+      You gain 5x more RE for 50 RE
+    </button>
+    <button onclick="buyupgrade2()" class="refactorUpg" id="reupg2">
+      ReCursors are 3x more powerful for 100 RE
+    </button>
+    <button onclick="buyupgrade3()" class="refactorUpg" id="reupg3">
+      Unlock wizards for 1000 RE
+    </button>
+    <div class="re" id="re">
+      Refactor Essence: 0
+    </div>
+    <div class="re" id="reCursor">
+      ReCursors: 0
+    </div>
+    <div class="re" id="rePower">
+      Refactor Power: 0
+    </div>
+    </div>
+    <br>
+    <button onclick = "window.location.href = 'https://discord.gg/mksWZKZ';" class="discord">
+      Discord
+    </button>
+    <button onclick="hardReset()">
+      HARD RESET (Currently bugged, don't click)
+    </button>
+    <h2>
+      Alpha 0.1.5b - Wizards Development
+    </h2>
+    <br>
+    <br>
+    <br>
+    <div class="wizardry" id="wizards">
+      Wizards: 0
+    </div>
+    <br>
+    <div class="wizardry" id="storage">
+      Storage Capsules: 1
+    </div>
+    <br>
+    <div class="mana" id="mana">
+      Mana: 100
+    </div>
+    <br>
+    <button onclick="buyWizard()" class="wizardry2" id="buyWizard">
+      Buy a wizard for 100 RE
+    </button>
+    <br>
+    <button onclick="buyCapsule()" class="wizardry2" id="buyCapsule">
+      Buy a storage capsule for 10000 RE
+    </button>
+  </body>
+</html>
