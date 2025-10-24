@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title>Reduction</title>
+  <script src="script.js"></script>
+</head>
+<body>
+  <span>Click on an intersection to change the 2x2 area around it (green = legal, red = not legal).</span>
+  <br/>
+  <span>
+    Player 1's name: <input id="player-1-name" type="text" value="Player 1"/> Player 2's name: <input id="player-2-name" type="text" value="Player 2"/>
+  </span>
+  <br/>
+  <span>
+    Game settings: Board size: <input id="size" type="number" value="16"/> Max changes per turn: <input id="changes" type="number" value="5"/> <button id="start" onclick="startGame()">Start game!</button> <span id="issue"></span>
+  </span>
+  <br/>
+  <span>Note: these game settings cannot be changed during the game.</span>
+  <br/>
+  <span>
+    <span id="game-text">Game has not started yet.</span>
+  </span>
+  <br/>
+  <br/>
+  <canvas id="board" width="600" height="600"></canvas>
+</body>
+</html>
