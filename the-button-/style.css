@@ -1,0 +1,23 @@
+.button1 {
+  color: white;
+  background: #000000;
+}
+
+.button2 {
+  color: red;
+  background: darkred;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+text {
+  color: white;
+}

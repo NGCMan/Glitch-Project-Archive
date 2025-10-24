@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Button</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/script.js" defer></script>
+    <script src="/break_eternity.min.js"></script>
+  </head>
+  <body>
+    <h1>The Button</h1>
+    <div id="text"><text>You have $0</text></div>
+    <button class="btn button1" onclick="getMoney()">
+      Get money.
+    </button>
+    <hr />
+    <text>Prestiges</text>
+    <p></p>
+    <button id="miniInfButton" class="btn button1" onclick="mini_inf()">
+      Mini infinity. ($308 required.)
+    </button>
+    <hr />
+    <text>Upgrades</text>
+    <p></p>
+    <button id="upgrade1Button" class="btn button1" onclick="upgrade1()">
+      Multiply progress by 2 for $10000
+    </button>
+    <button id="upgrade2Button" class="btn button1" onclick="upgrade2()">
+      Quintuple mini-infinity click gain for $200000
+    </button>
+    <hr />
+    <text>Options</text>
+    <p></p>
+    <button id="saveButton" class="btn button1" onclick="save()">
+      Save
+    </button>
+    <button id="resetButton" class="btn button2" onclick="reset()">
+      HARD RESET
+    </button>
+  </body>
+</html>
