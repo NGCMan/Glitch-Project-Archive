@@ -1,3 +1,10 @@
+# Last edited: Jun 15, 2020	
+
+# Original Description:
+An incremental made by the members of the AD NG+3 Discord Server.
+
+
+# Original README.md text:
 # community incremental
 
 Make a prototype idea, put it here, then start developing stuff
