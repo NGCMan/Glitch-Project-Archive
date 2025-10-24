@@ -1,3 +1,9 @@
+# Last edited: Mar 31, 2020	
+
+# Original Description:
+A game where you make stars.
+
+# Original README.md text:
 # I WILL NOT VANDALIZE THIS
 
 bruh,
