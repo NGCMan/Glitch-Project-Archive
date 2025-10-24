@@ -1,0 +1,9 @@
+#galaxyDisplay {
+ color: cyan;
+}
+#normal {
+  display: block;
+}
+#galaxy {
+  display: none;
+}

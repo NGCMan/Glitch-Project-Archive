@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <script src="OmegaNum.js"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <p id="replicantiDisplay">
+    Replicanti: 1
+  </p>
+    <p id="timeDisplay">
+    Time: 1000ms
+  </p>
+    <p id="chanceDisplay">
+    Chance: 5%
+  </p>
+  <p id="galaxyDisplay">
+    Galaxies: 0
+  </p>
+  <button onclick="showNormal()">Replicanti</button><button onclick="showGalaxy()">Galaxy</button>
+  <div id="normal">
+  <br>Every ten replicanti attempts guarantees a successful replicate.</br>
+  <button id="replicantiUpgradeDisplay" onclick="replicantiUpgrade()">Increase the replicate chance by 1%. Cost: 100</button>
+  <button id="timeUpgradeDisplay" onclick="timeUpgrade()">Divide time by 11%. Cost: 1000</button>
+  <button onclick="buyGalaxy()">Buy a replicanti galaxy for 1e308 Replicanti.</button>
+  <br>Costs are divided, not subtracted.</br><br>
+  <button id="firstDimensionDisplay" onclick="buyFirstDimension()">(x1) 1st Dimension: Amount: 0, Cost: 10</button><br>
+  <button id="secondDimensionDisplay" onclick="buySecondDimension()">(x1) 2nd Dimension: Amount: 0, Cost: 100</button><br>
+  <button id="thirdDimensionDisplay" onclick="buyThirdDimension()">(x1) 3rd Dimension: Amount: 0, Cost: 10000</button><br>
+  <button id="fourthDimensionDisplay" onclick="buyFourthDimension()">(x1) 4th Dimension: Amount: 0, Cost: 1000000</button><br>
+  <button id="fifthDimensionDisplay" onclick="buyFifthDimension()">(x1) 5th Dimension: Amount: 0, Cost: 1e9</button><br>
+  <button id="sixthDimensionDisplay" onclick="buySixthDimension()">(x1) 6th Dimension: Amount: 0, Cost: 1e13</button><br>
+  <button id="seventhDimensionDisplay" onclick="buySeventhDimension()">(x1) 7th Dimension: Amount: 0, Cost: 1e18</button><br>
+  <button id="eighthDimensionDisplay" onclick="buyEighthDimension()">(x1) 8th Dimension: Amount: 0, Cost: 1e24</button>
+</div>
+<div id="galaxy">
+<table>
+  <tr>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>You start with a fifth dimension.<br>Cost: TBA</button></td>
+  </tr>
+  <tr>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>You start with a sixth dimension.<br>Cost: TBA</button></td>
+  </tr>
+  <tr>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>You start with a seventh dimension.<br>Cost: TBA</button></td>
+  </tr>
+  <tr>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>TBA</button></td>
+    <td><button>You start with a eighth dimension.<br>Cost: TBA</button></td>
+  </tr>
+</table>
+</div>
+</br>
+</br>
+<button onclick="save();">Save</button> <button onclick="load();">Load</button>
+<br>Saving/Loading currently doesn't work.</br>
+</html>
