@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title id="title">Starfall</title>
+    <audio
+      id="encounter"
+      ,
+      src="https://cdn.glitch.com/8320eb53-c3a4-48ba-aafe-780f0031d962%2FEncounter.mp3?v=1577659814007"
+    >
+      <source type="audio/mpeg" />
+    </audio>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="combat.js" defer></script>
+    <script src="location.js" defer></script>
+    <script src="conversation.js" defer></script>
+    <script src="shop.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body id="game">
+    <button id="talkbutton" onclick="talk()">Talk</button>
+    <div id="talkActions">
+      <b>Talk:</b>
+      <button id="action1" onclick="msgs[0].send()">Who are you?</button>
+      <button id="action2" onclick="msgs[1].send()">
+        What am I doing here?
+      </button>
+      <button id="action3" onclick="msgs[2].send()">Where am I?</button>
+      <button id="action4" onclick="msgs[3].send()">(Be silent.)</button>
+      <div class="message"><b>Message Log:</b></div>
+      <div id="messageBox" class="messageBox">
+        <p id="message1">???: I was wondering when you were gonna wake up.</p>
+      </div>
+    </div>
+    <div id="notTalk">
+      <p>You are in <span id="locText">error error error</span></p>
+      <p>You are located at: <span id="posText">(0,0,0)</span></p>
+      <p id="hp">HP: 24/24</p>
+      <p>Hunger: 100%</p>
+      <!--- Hunger, thirst, temperature, and sanity do nothing at the moment. --->
+      <p>Thirst: 100%</p>
+      <p>Temperature: 70F</p>
+      <p>Sanity: 100%</p>
+      <p id="goldtext">You have 0 gold.</p>
+      <b>Actions: </b>
+
+      <div id="battleMenu">
+        <button id="attack" onclick="attack()">Attack!</button>
+        <button id="defend" onclick="defend()">Defend!</button>
+        <button id="magic" onclick="updateSpells(game.player)">
+          Cast spells!
+        </button>
+        <button id="inventory" onclick="openInv()">Inventory</button>
+        <div id="magiks">
+          <ul></ul>
+        </div>
+        <div id="eqips" class="eqips"></div>
+        <button id="closeInv" onclick="closeInv()">
+          Close inventory
+        </button>
+        <p id="battleText"></p>
+        <p id="EbattleText"></p>
+      </div>
+      <button id="action5" onclick="shop()">Shop.</button>
+      <div id="shopActions">
+        <button id="ExitShop" onclick="exitShop()">Exit shop</button>
+        <button id="buyWeapon" onclick="shop1List[0].buy()">
+          Buy sharp rock (Cost: 10 gold)
+        </button>
+        <button id="buyApples" onclick="shop1List[1].buy()">
+          Buy apple (Cost: 5 gold)
+        </button>
+        <button id="buyRng" onclick="shop1List[2].buy()">
+          Buy random weapon (Cost: 100 gold)
+        </button>
+        <button id="buyRng2" onclick="shop1List[3].buy()">
+          Buy good random weapon (Cost: 250 gold)
+        </button>
+        <button id="buyRngArmor" onclick="shop1List[4].buy()">
+          Buy random armor (Cost: 100 gold)
+        </button>
+      </div>
+      <div class="credits">
+        Credit to
+        <a href="https://wingless-seraph.net/en/index.html">Wingless Seraph</a>
+        for the battle music.<br />
+        Right-click this tab and click "Mute Site" if you wish not to have
+        audio.
+      </div>
+      <span><p>Version: ɑ2.4</p></span
+      ><span
+        ><a href="http://starfall.glitch.me/changelog.html">Changelog</a></span
+      >
+      <p id="ehp"></p>
+      <p id="ename"></p>
+    </div>
+  </body>
+</html>
