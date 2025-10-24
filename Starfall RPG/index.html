@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Starfall</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="messagelog.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <p>You are located at: <span id="posText">(0,0,0)</span></p>
+    <b>Actions: </b><button onclick="talk()">Talk</button>
+    <div class="message"><b>Message Log:</b></div>
+<div id="talkActions">     
+<b>Talk:</b> 
+  <button id="action1" onclick="notify(messages[0])">Who are you?</button>
+  <button id="action2" onclick="notify(messages[1])">What am I doing here?</button> 
+  <button id="action3" onclick="notify(messages[2])">Where am I?</button> 
+  <button id="action4" onclick="notify(messages[3])">(Be silent.)</button>
+</div>
+    <div class="messageBox">
+      <p id="message1"></p>
+      <p id="message2"></p>
+      <p id="message3"></p>
+      <p id="message4"></p>
+      <p id="message5">???: I was wondering when you were gonna wake up.</p>
+    </div>
+  </body>
+</html>
