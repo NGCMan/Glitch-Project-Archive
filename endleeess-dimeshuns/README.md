@@ -1,3 +1,9 @@
+# Last edited: Dec 28, 2019	
+
+# Original Description: (Yes, it's unaltered from the default.)
+Your very own basic web page, ready for you to customize.
+
+# Original README.md text: (Again, it's unaltered from the default.)
 Welcome to Glitch
 =================
 
