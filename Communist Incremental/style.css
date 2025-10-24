@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Comic Sans MS, arial, sans-serif;
+  margin: 2em;
+  background: yellow;
+  color: red
+}
+
+h1 {
+  font-style: italic;
+}
+
+button {
+  color: yellow;
+  background: red;
+  border-radius: 1px;
+  border-color: red;
+  border-width: 2.5px;
+}
+
+.ascensiontabbutton {
+  color: #F0E68C;
+  background: #000000;
+  border-radius: 1px;
+  border-color: #999900;
+  border-width: 2.5px;
+}
+
+.invisible {
+  display: none;
+}
