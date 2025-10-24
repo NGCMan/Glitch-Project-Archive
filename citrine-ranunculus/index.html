@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <script src="OmegaNum.js"></script>
+    <script src="formatting.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <p id="replicantiDisplay">
+    Replicanti: 1
+  </p>
+    <p id="timeDisplay">
+    Time: 1s
+  </p>
+    <p id="chanceDisplay">
+    Chance: 5%
+  </p>
+    <p id="galaxiesDisplay">
+    Galaxies: 0
+  </p>
+  <br>Every ten replicanti attempts guarantees a successful replicate.</br>
+  <button id="replicantiUpgradeDisplay" onclick="replicantiUpgrade()">Increase the replicate chance by 1%. Cost: 100</button>
+  <button id="timeUpgradeDisplay" onclick="timeUpgrade()">Divide time by 11%. Cost: 1000</button>
+  <button onclick="prestige(1)">Buy a replicanti galaxy for 1e308 Replicanti.</button>
+  <br>Costs are divided, not subtracted.</br>
+  <button id="firstDimensionDisplay" onclick="buyFirstDimension()">(x1) 1st Dimension: Amount: 0, Cost: 10</button>
+<button onclick="save();">Save</button onclick="load();"><button>Load</button>
+<br>Saving/Loading currently doesn't work.</br>
+</html>
