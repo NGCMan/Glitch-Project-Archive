@@ -1,3 +1,8 @@
+# Original Description:
+Will I get banned for that name? Hopefully not.
+
+# Original README.md text: (Yes, it's unaltered from the default.)
+
 Welcome to Glitch
 =================
 
