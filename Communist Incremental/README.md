@@ -1,3 +1,7 @@
+# Original Description:
+start with potatoes
+
+# Original README.md text:
 [Join here!](https://glitch.com/edit/#!/join/5f6a202b-f982-443f-b297-ce5f71450920)
 JK
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
