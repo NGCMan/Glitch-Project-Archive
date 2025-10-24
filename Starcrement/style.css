@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Typewriter;
+    src: url('https://cdn.glitch.com/b0b4f18a-9c86-4c2e-8555-6f6d97666bc3%2FMonospaceTypewriter.ttf?v=1577653228767');
+}
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+body {
+  font-family: Typewriter;
+}
+#myBar {
+  width: 0%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#myProgress1 {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar1 {
+  width: 0%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+
+/*
+/is it ok if i use the AD font? -JohnathanTBG
+
+/sure, why not
+/i dunno about ngcman but i'm fine with it - crimson
+/ Yes, we can use the AD font. - NGC Man.
+
+/Ok. -JohnathanTBG
