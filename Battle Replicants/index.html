@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Battle Replicants</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/game.js" defer></script>
+  </head>  
+  <body>
+    <center><h1>BATTLE REPLICANTS</h1></center>
+    
+    <p id="replicantAmountDisplay">You have 1 replicant.</p>
+    <p style="font-size: 24px">Stats</p>
+    <p id="replicantHPDisplay">Replicants HP: 10/10</p>
+    <p id="replicantMPDisplay">Replicants MP: 5/5</p>
+    <p id="replicantStatDisplay">Attack: 1 | Defense: 1</p>
+    <p id="coinAmountDisplay" style="display: none;">You have 0 coins.</p>
+    <p style="font-size: 24px">Story</p>
+    <p id="storyText">An error happened, it's probably Glitch. However, it might just be me.</p>
+    <p id="storyText2"></p>
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <button id="fight" onclick="fight()">Fight</button>  <button id="recover" onclick="recover()">Recover</button>
+    <p id="fightText"></p>
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body>
+</html>
