@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+@font-face {
+    font-family: Typewriter;
+    src: url('https://cdn.glitch.com/045d94c6-b3ad-4dcc-b369-fd1f4bf3d278%2FMonospaceTypewriter.ttf?v=1584918368123');
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: Typewriter
+}
+
+button, p {
+  font-family: Typewriter
+}
+
+/* Code ripped off from Antimatter Dimensions. */
+button {
+    color: black;
+    background: #F2F2F2;
+    font-weight: bold;
+    font-family: Typewriter;
+    border: 1px solid #127A20;
+    width: 200px;
+    height: 25px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 13px;
+    vertical-align: top;
+}
