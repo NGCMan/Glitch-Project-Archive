@@ -1,3 +1,10 @@
+This is an archival of all the glitch.me projects I've either made or worked on because apparently the service is going to be shut down in 2026.
+
+I'll add more information to each project later, I've already spent almost an hour archiving all this stuff.
+
+tl;dr: Just pick a project and run it. Knowledge of Antimatter Dimensions is **highly** recommended.
+
+######
 Projects in the "You own" tab:
 * bakery-shop
 * communist-incremental
