@@ -1,3 +1,9 @@
+# Last edited: Apr 28, 2020	
+
+# Original Description:
+An incremental game about baking.
+
+# Original README.md text:
 Plans
 =================
 
