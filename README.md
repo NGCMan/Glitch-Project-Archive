@@ -4,6 +4,12 @@ I'll add more information to each project later, I've already spent almost an ho
 
 tl;dr: Just pick a project and run it. Knowledge of Antimatter Dimensions is **highly** recommended.
 
+# Bakery Shop
+
+[Play here!](https://raw.githack.com/NGCMan/Glitch-Project-Archive/main/Bakery%20Shop/index.html)
+
+A game inspired by [Get A Little Gold.](https://www.kongregate.com/games/jarofed/get-a-little-gold) Though as you can see, the game was created in a day and quickly abandoned. The buttons on the top don't do anything, all you can do in this game is print money, and wait. There's really not much to it.
+
 ######
 Projects in the "You own" tab:
 * bakery-shop
