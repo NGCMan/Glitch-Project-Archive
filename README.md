@@ -1,6 +1,6 @@
-Picture this: It's 2019, and you're a huge fan of the incremental game [Antimatter Dimensions.](https://ivark.github.io/AntimatterDimensions/) You've completed the game, and decided to check out the modding community while you wait for the upcoming update, blissfully unaware that it's still three years away.
+Picture this: It's 2019, and you're a huge fan of the incremental game [Antimatter Dimensions.](https://ivark.github.io/AntimatterDimensions/) You've completed the game, and decided to stave off your newfound boredom somehow while you wait for the upcoming update, blissfully unaware that it's still three years away.
 
-To stave off boredom, you do a variety of things. You check out the various Antimatter Dimensions mods, you play games inspired by Antimatter Dimensions, you interact with the community, and most importantly for this particular case, **you decide to learn how to code.**
+You do a variety of things. You check out the various Antimatter Dimensions mods, you play games inspired by Antimatter Dimensions, you interact with the community, and most importantly for this particular case, **you decide to learn how to code.**
 
 One day, you learn from one of the people you interact with online about a website called glitch.me, a programming website that has a unique feature: *collaborative, real-time editing.* Over the next two years, you and your online friends decide to mess around with it and create silly little projects to share with each other.
 
