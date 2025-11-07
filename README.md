@@ -4,7 +4,7 @@ You do a variety of things. You check out the various Antimatter Dimensions mods
 
 One day, you learn from one of the people you interact with online about a website called glitch.me, a programming website that has a unique feature: *collaborative, real-time editing.* Over the next two years, you and your online friends decide to mess around with it and create silly little projects to share with each other.
 
-Years later, you get a wave of nostalgia and decide to look back at these old projects, only to find out that the service is going to be shut down in 2026. Not wanting the shared memories to be lost to time, you decide to archive everything the website let you to.
+Years later, in 2025, you get a wave of nostalgia and decide to look back at these old projects, only to find out that the service is going to be shut down in 2026. Not wanting the shared memories to be lost to time, you decide to archive everything the website let you to.
 
 **With that introductory statement out of the way, welcome to the Glitch Project Archive.**
 
