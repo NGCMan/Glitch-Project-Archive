@@ -36,8 +36,8 @@ So... this requires a bit of background information. As I mentioned earlier, Gli
 
 Yes, I know this is not how communism works, but what did you expect? I was just a dumb teenager trying to crack a joke, leave me alone.
 
-For better or worse, this is one of the best games in the archive. (Personally, I think Ordinal Markup Plus is the only other good one.) Due to its nature as a (mostly unplanned) collaborative project, a lot of buttons go unused. The goal of the game is to grow potatoes, and purchase multipliers, reach infinity, buy beetroots, and ultimately, Rip Aarex.
+For better or worse, this is one of the best games in the archive. (Personally, I think Ordinal Markup Plus is the only other good one.) Due to its nature as a (mostly unplanned) collaborative project, a lot of buttons go unused. The goal of the game is to grow potatoes, and purchase multipliers, reach Infinity, buy beetroots, and ultimately, Rip Aarex.
 
-Oh, right, I should *probably* explain what that means. Rip Aarex, (usually stylized as :ripaarex:) was an inside joke used to refer to a prestige layer, and it was named after Aarex, the Developer of NG+++. The image presented is the Discord emoji used as part of the joke. (If I remember correctly, I *believe* it was once used in the NG+3 server, but it's not there anymore. Shame.)
+Oh, right, I should *probably* explain what that means. Rip Aarex, (usually stylized as :ripaarex:) was an inside joke used to refer to a prestige layer, and it was named after Aarex, the developer of NG+++. The image presented is the Discord emoji used as part of the joke. (If I remember correctly, I *believe* it was once used in the NG+3 server, but it's not there anymore. Shame.)
 
 On a final note, Boney M.'s Rasputin was used as background music in the original project, but I removed that feature because I do *not* want a DMCA takedown on this repository, even though the chances of that happening are pretty slim. Still, better safe than sorry!
