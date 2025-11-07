@@ -32,7 +32,7 @@ Unfortunately, I can't get very far in the game to explain any further, as the p
 
 [Play here!](https://raw.githack.com/NGCMan/Glitch-Project-Archive/main/Communist%20Incremental/index.html)
 
-So... this requires a bit of background information. As I mentioned earlier, Glitch allows you to work on a project collaboratively, and that's exactly what I did with this game. *Anyone* could join the project and edit the code... and in case you couldn't tell, that's why it's called Communist Incremental. The contributors also got paid equally as well! (Disclaimer: This project was free so I don't owe them squat.)
+So... this requires a bit of background information. As I mentioned earlier, Glitch allows you to work on a project collaboratively, and people can click on an invite link to be added to the project. With this particular game, however, I put the invite link in the game's description, so *anyone* could join the project and edit the code... and in case you couldn't tell, that's why it's called Communist Incremental. The contributors also got paid equally as well! (Disclaimer: This project was free so I don't owe them squat.)
 
 Yes, I know this is not how communism works, but what did you expect? I was just a dumb teenager trying to crack a joke, leave me alone.
 
