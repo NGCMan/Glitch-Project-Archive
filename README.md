@@ -1,4 +1,8 @@
-Picture this: It's 2019, and you're a huge fan of the incremental game [Antimatter Dimensions.](https://ivark.github.io/AntimatterDimensions/) You've completed the game, and decided to check out the modding community while you wait for the upcoming update, blissfully unaware that it's still three years away. To stave off boredom, you do a variety of things. You check out the various Antimatter Dimensions mods, you play games inspired by Antimatter Dimensions, you interact with the community, and most importantly for this particular case, **you decide to learn how to code.** One day, you learn from one of the people you interact with online about a website called glitch.me, a programming website that has a unique feature: *collaborative, real-time editing.* Over the next two years, you and your online friends decide to mess around with it and create silly little projects to share with each other.
+Picture this: It's 2019, and you're a huge fan of the incremental game [Antimatter Dimensions.](https://ivark.github.io/AntimatterDimensions/) You've completed the game, and decided to check out the modding community while you wait for the upcoming update, blissfully unaware that it's still three years away.
+
+To stave off boredom, you do a variety of things. You check out the various Antimatter Dimensions mods, you play games inspired by Antimatter Dimensions, you interact with the community, and most importantly for this particular case, **you decide to learn how to code.**
+
+One day, you learn from one of the people you interact with online about a website called glitch.me, a programming website that has a unique feature: *collaborative, real-time editing.* Over the next two years, you and your online friends decide to mess around with it and create silly little projects to share with each other.
 
 Years later, you get a wave of nostalgia and decide to look back at these old projects, only to find out that the service is going to be shut down in 2026. Not wanting the shared memories to be lost to time, you decide to archive everything the website let you to.
 
@@ -35,37 +39,3 @@ For better or worse, this is one of the best games in the archive. (Personally, 
 Oh, right, I should *probably* explain what that means. Rip Aarex, (usually stylized as :ripaarex:) was an inside joke used to refer to a prestige layer, and it was named after Aarex, the Developer of NG+++. The image presented is the Discord emoji used as part of the joke. (If I remember correctly, I *believe* it was once used in the NG+3 server, but it's not there anymore. Shame.)
 
 On a final note, Boney M.'s Rasputin was used as background music in the original project, but I removed that feature because I do *not* want a DMCA takedown on this repository, even though the chances of that happening are pretty slim. Still, better safe than sorry!
-
-######
-Projects in the "You own" tab:
-* bakery-shop
-* communist-incremental
-* en-gee-slash
-* false-antimatter-dimensions
-* incremental-spikes
-* ngc-man-s-antimatter-dimensions
-* ngc-mans-collab-story
-* ngc-mans-universe-creator-mod
-* ordinal-markup-minus
-* ourcraft-game
-* peenor-dimensions
-* replicanti-sim
-* starcrement
-* starfall
-
-Projects in the "You're a member" tab:
-* battle-replicants
-* citrine-ranunculus
-* community-incremental
-* cookie-clickr
-* endleeess-dimeshuns
-* endless-dimensions-beta
-* glacier-gainful-ambert
-* hyper-r
-* starfall-rpg
-* the-button-
-* universe-creator-ngp3
-
-Projects in the "Archived" tab:
-* eager-fluffy-cabin
-* foregoing-wax-apology
