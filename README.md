@@ -22,7 +22,9 @@ A game inspired by [Get A Little Gold.](https://www.kongregate.com/games/jarofed
 
 [Play here!](https://raw.githack.com/NGCMan/Glitch-Project-Archive/main/Battle%20Replicants/index.html)
 
-An RPG project idea concieved by yourself7528, and coded by me and usavictor2. (I don't remember if yourself7528 did any programming or not, it's possible that they did, though.) The term "replicants" refers to the Antimatter Dimensions mechanic of the same name. Looking at the code, it says "Welcome to battle replicants, a game idea that never made NG+++ turned into a game", where NG+++ refers to New Game Plus 3, a popular Antimatter Dimensions mod, which you can play [here.](https://aarextiaokhiao.github.io/NG-plus-3/) (Go into the options menu and click "Convert to NG+3" to begin.)
+An RPG project idea concieved by yourself7528, and coded by me and usavictor2. (I don't remember if yourself7528 did any programming or not, it's possible that they did, though.) The term "replicants" refers to the Antimatter Dimensions mechanic of the same name.
+
+Looking at the code, it says "Welcome to battle replicants, a game idea that never made NG+++ turned into a game", where NG+++ refers to New Game Plus 3, a popular Antimatter Dimensions mod, which you can play [here.](https://aarextiaokhiao.github.io/NG-plus-3/) (Go into the options menu and click "Convert to NG+3" to begin.)
 
 Unfortunately, I can't get very far in the game to explain any further, as the page seems to crash pretty soon after playing it. ~~Maybe I should pester usavictor about it later.~~
 
@@ -30,7 +32,7 @@ Unfortunately, I can't get very far in the game to explain any further, as the p
 
 [Play here!](https://raw.githack.com/NGCMan/Glitch-Project-Archive/main/Communist%20Incremental/index.html)
 
-So... this requires a bit of background information. Glitch allows you to work on a project collaboratively, and that's exactly what I did with this game. *Anyone* could join the project and edit the code... and in case you couldn't tell, that's why it's called Communist Incremental. The contributors also got paid equally as well! (Disclaimer: This project was free so I don't owe them squat.)
+So... this requires a bit of background information. As I mentioned earlier, Glitch allows you to work on a project collaboratively, and that's exactly what I did with this game. *Anyone* could join the project and edit the code... and in case you couldn't tell, that's why it's called Communist Incremental. The contributors also got paid equally as well! (Disclaimer: This project was free so I don't owe them squat.)
 
 Yes, I know this is not how communism works, but what did you expect? I was just a dumb teenager trying to crack a joke, leave me alone.
 
